@@ -1,0 +1,5 @@
+{
+  "name": "CondoWealth Pro",
+  "description": "A high-precision financial simulator for purchasing and selling condominiums in Japan, featuring detailed tax calculations, property tax (fixed asset tax) simulation, mortgage amortization, and AI-powered market advice.",
+  "requestFramePermissions": []
+}
